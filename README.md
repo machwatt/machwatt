@@ -7,6 +7,7 @@
 [<img align="left" alt="joerankurschatke.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][web]
 [<img align="left" alt="kuemmeler – Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="instagram – Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 
 ### Currently playing on Spotify 🎧
 [![Spotify](https://spotify-currently-playing-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/1121759856)
