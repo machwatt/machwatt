@@ -20,9 +20,13 @@
 ---
 
 ## Some Fun
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=machwatt&theme=vue&hide=contribs)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machwatt&theme=vue" />
+</a>
 
-[![Jöran's github stats](https://github-readme-stats.vercel.app/api?username=machwatt&theme=vue&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machwatt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently playing on Spotify 🎧
 [![Spotify](https://spotify-currently-playing-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/1121759856)
