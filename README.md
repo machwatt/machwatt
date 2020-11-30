@@ -12,7 +12,7 @@
                                                                                                                                  
 ### Connect with:
 [<img align="left" alt="joerankurschatke.de" src="https://img.shields.io/badge/joerankurschatke.de%20-%20.svg?&style=for-the-badge&color=3fb5cc&labelColor=white" />][web]
-[<img align="left" alt="kuemmeler – Twitter" src="https://img.shields.io/badge/@kuemmeler%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="machwatt – Twitter" src="https://img.shields.io/badge/@machwatt%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img align="left" alt="instagram – Instagram" src="https://img.shields.io/badge/@kuemmeler%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 <br />
 
@@ -29,5 +29,5 @@
 [![Spotify](https://spotify-currently-playing-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/1121759856)
 
 [web]: https://www.joerankurschatke.de
-[twitter]: http://twitter.com/kuemmeler
+[twitter]: http://twitter.com/machwatt
 [instagram]: http://instagram.com/kuemmeler
