@@ -16,14 +16,6 @@
 [<img align="left" alt="instagram – Instagram" src="https://img.shields.io/badge/@kuemmeler%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 <br />
 
-### Some Fun
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machwatt&theme=vue&hide=java,apacheconf" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=machwatt&theme=vue&hide=contribs)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-
 [web]: https://www.joerankurschatke.de
 [twitter]: http://twitter.com/machwatt
 [instagram]: https://www.instagram.com/ahelpfulmess
